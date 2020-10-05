@@ -6,7 +6,8 @@ Now you get to know all the programs installed on your system.
 Next, locate Office Click on the program, and you will find these choice to Uninstall or Repair.
 Select the uninstall setup. Now you have to wait till the uninstall is complete.
 The last system will ask you to restart your computer.
-You can reinstall or install Microsoft Office Setup at www.office.com/setup on your computer anytime.
+You can reinstall or install Microsoft Office Setup at office.com/setup
+http://office-settup.com/ on your computer anytime.
 Uninstall Office from Mac:
 
 Visit your app folder and open office folder.
